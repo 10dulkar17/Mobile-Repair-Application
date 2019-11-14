@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418410350837",
+    "firebase_url": "https://mobile-repairing-app-6b1fe.firebaseio.com",
+    "project_id": "mobile-repairing-app-6b1fe",
+    "storage_bucket": "mobile-repairing-app-6b1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418410350837:android:c8fc80cb37c91a14afddbc",
+        "android_client_info": {
+          "package_name": "com.example.mobile_repair_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418410350837-reaf1vbfvjjc7vrfuuuur6om3jqvf1gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobile_repair_application",
+            "certificate_hash": "b1fa100ffdf6b0774f15bf61881518ef8a12afe5"
+          }
+        },
+        {
+          "client_id": "418410350837-cnqrd1kcn8tp8vhagl4vb12j8chcub9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0xrD1SSqpgorcCQzBmI4dV3XzBtZLdtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418410350837-cnqrd1kcn8tp8vhagl4vb12j8chcub9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
